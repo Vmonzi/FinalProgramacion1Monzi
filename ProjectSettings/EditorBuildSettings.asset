@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: f87ba7ed7b4a1524c8c878cb28f8ac56
+  - enabled: 1
+    path: Assets/Scenes/Instruccions.unity
+    guid: 5ada2fbfd69750a4d96176d4ae4157a4
+  - enabled: 1
+    path: Assets/Scenes/Instrucciones2.unity
+    guid: ff632cbd55e1d4744a400da78dca0a28
+  - enabled: 1
+    path: Assets/Scenes/Level1.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/MiniBoss.unity
+    guid: 3857ce73284084d4eb9bc403f17c93d9
+  - enabled: 1
+    path: Assets/Scenes/Boss.unity
+    guid: ec8abb2d2fbddeb46ad13defef49bf25
+  - enabled: 1
+    path: Assets/Scenes/Win.unity
+    guid: a10448b1497ff6e46861f7a3867bfa48
+  - enabled: 1
+    path: Assets/Scenes/Credits.unity
+    guid: be180745b142860458df27533ae3ecbc
+  - enabled: 1
+    path: Assets/Scenes/Lose.unity
+    guid: b227e09e7ac6295469c05e8e26798c7d
+  m_configObjects: {}

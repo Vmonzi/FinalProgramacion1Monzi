@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - FxTemporaire
+  - EnemyComun
+  - Boss
+  - MiniBoss
+  - EnemyVariant
+  - Rosa
+  - Violeta
+  - Rojo
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Enemys
+  - PlayerProyectiles
+  - EnemysProyectiles
+  - Walls
+  - Camera
+  - Fondo
+  - Recolectables
+  - Tope
+  - Detect
+  - Escenario
+  - Aliado
+  - Particulas
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: mapa
+    uniqueID: 4108187597
+    locked: 0
+  - name: Background
+    uniqueID: 3193508875
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Foreground
+    uniqueID: 3911711393
+    locked: 0
